@@ -1,0 +1,14 @@
+{
+  "author": {
+    "name": "TestLab"
+  },
+  "dependencies": {
+    "htu21d-i2c": ">=0.1.0",
+    "mqtt": "^3.0.0",
+    "onoff": ">=3.2.1"
+
+  },
+  "description": "TestIot",
+  "main": "index.js",
+  "version": "1.0.0"
+}
