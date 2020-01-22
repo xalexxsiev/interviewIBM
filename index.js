@@ -3,6 +3,7 @@
 var i2c = require('htu21d-i2c');
 var htu21d = new i2c();
 
+
 var mqtt = require('mqtt');
 var client  = mqtt.connect('mqtt://localhost');
 
